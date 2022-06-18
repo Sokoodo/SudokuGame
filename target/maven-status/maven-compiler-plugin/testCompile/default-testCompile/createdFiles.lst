@@ -1,0 +1,5 @@
+com\lodz\sudoku\SudokuSolverTest.class
+com\lodz\sudoku\FileSudokuBoardDaoTest.class
+com\lodz\sudoku\SudokuBoardDaoFactoryTest.class
+com\lodz\sudoku\SudokuBoardTest.class
+com\lodz\sudoku\BackTrackingSudokuRemoverTest.class
